@@ -4,8 +4,12 @@
 프로젝트 목표를 도식화 한 사진
 ![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/565d900d-9b01-4450-a855-c31d9f231cdb)
 
-개발 절차
-![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/93b98391-40bc-41ca-a054-73c753b018f2)
+![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/bdb839e6-6bc9-493b-bb7f-d19768c7cad9)
+
+**전체 시스템 구상도**
+
+![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/ccb31683-dd86-4163-b588-c110791e2223)
+
 
 요구사항 수집 및 분석: 사물 인식을 통한 미사일 자세제어를 위한 요구사항을 수집하고 시나리오 작성을 통해 분석한다.
 사물인식을 활용한 **비행체 추적 시스템 개발 절차**는 다음과 같다. 
