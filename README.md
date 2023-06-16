@@ -1,7 +1,8 @@
 # Drone-Detection
 경상국립대학교 캡스톤 디자인 프로젝트 - 비행체 추적을 위한 미사일 자세제어 시스템(딥러닝 객체 탐지 및 추적)
 
-프로젝트 목표를 도식화 한 사진
+**프로젝트 목표**
+
 ![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/565d900d-9b01-4450-a855-c31d9f231cdb)
 
 ![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/bdb839e6-6bc9-493b-bb7f-d19768c7cad9)
