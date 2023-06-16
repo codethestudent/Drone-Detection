@@ -1,6 +1,10 @@
 # Drone-Detection
 경상국립대학교 캡스톤 디자인 프로젝트 - 비행체 추적을 위한 미사일 자세제어 시스템(딥러닝 객체 탐지 및 추적)
 
+프로젝트 목표를 도식화 한 사진
+![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/565d900d-9b01-4450-a855-c31d9f231cdb)
+
+개발 절차
 ![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/93b98391-40bc-41ca-a054-73c753b018f2)
 
 요구사항 수집 및 분석: 사물 인식을 통한 미사일 자세제어를 위한 요구사항을 수집하고 시나리오 작성을 통해 분석한다.
@@ -25,5 +29,8 @@
 Jetson Nano 4GB SUB에서 YOLOv5s와 OpenCV Tracker를 활용하여 객체(드론)를 탐지 및 추적
 실제 추적 화면
 ![Screenshot from 2023-06-04 22-41-07](https://github.com/codethestudent/Drone-Detection/assets/96714243/445eecf3-9460-4c0d-9532-6ae2dbfae02b)
+![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/5c44287a-960a-4f52-9fcb-266d7648ad3a)
+![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/f308a5b3-1643-46b0-be98-108a24c0faa4)
+
 
 구현시 어려웠던 점 : GPU 활용을 위한 젯슨 나노의 설정 과정(OpenCV 업데이트 및 CUDA라이브러리 설치), 미사일 테스트베드와 카메라 짐벌 시스템의 통합 테스트
