@@ -33,5 +33,8 @@ Jetson Nano 4GB SUB에서 YOLOv5s와 OpenCV Tracker를 활용하여 객체(드�
 ![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/5c44287a-960a-4f52-9fcb-266d7648ad3a)
 ![image](https://github.com/codethestudent/Drone-Detection/assets/96714243/f308a5b3-1643-46b0-be98-108a24c0faa4)
 
+**전체적인 시스템 설계**
+
+![unnamed](https://github.com/codethestudent/Drone-Detection/assets/96714243/daf95919-24b6-413f-affb-ccc35a56f88d)
 
 구현시 어려웠던 점 : GPU 활용을 위한 젯슨 나노의 설정 과정(OpenCV 업데이트 및 CUDA라이브러리 설치), 미사일 테스트베드와 카메라 짐벌 시스템의 통합 테스트
