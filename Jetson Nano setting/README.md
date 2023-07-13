@@ -1,0 +1,2 @@
+# JETSON NANO ORIN SUB 환경 설정
+
